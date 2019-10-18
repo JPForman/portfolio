@@ -30,6 +30,10 @@
   text-align: right;
 }
 
+.sidebar {
+  float: right;
+}
+
 .h200 {
   height: 200px;
 }
