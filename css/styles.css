@@ -1,1 +1,17 @@
+.htitle {
+  font-size: 60px;
+}
 
+.grey {
+  background-color: #709473;
+}
+
+.right {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.tinybigs {
+  font-size: 25px;
+}
