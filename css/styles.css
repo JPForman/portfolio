@@ -10,10 +10,18 @@
   background-color: #edae61;
 }
 
+.purpy {
+  background: #b181c7;
+}
+
 .right {
   position: absolute;
   bottom: 0;
   right: 0;
+}
+
+.h200 {
+  height: 200px;
 }
 
 .tinybigs {
