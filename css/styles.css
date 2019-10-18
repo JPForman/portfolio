@@ -1,3 +1,7 @@
+.column {
+  float:left;
+}
+
 .htitle {
   font-size: 60px;
 }
