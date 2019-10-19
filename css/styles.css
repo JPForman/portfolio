@@ -34,8 +34,12 @@
   text-align: right;
 }
 
-.sidebar {
-  float: right;
+.lpadded {
+  padding-left: 20px;
+}
+
+.fright {
+  float: left;
 }
 
 .h200 {
