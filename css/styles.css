@@ -18,6 +18,10 @@
   padding-top: 4%;
 }
 
+.depCtd{
+  padding-top:  7vh;
+}
+
 .dekuTree{
   margin-top: 30%;
   width: 100%;
@@ -144,7 +148,7 @@
 }
 
 .navbar{
-  height: 12vh;
+  height: 80px;
 }
 
 .railz{
@@ -161,6 +165,13 @@
 .sk8{
   width: 100%;
   background-color: black;
+  height: 30vh;
+  overflow-y: hidden;
+}
+
+.sk8Img {
+  height: 100%;
+  margin-left: 10%;
 }
 
 .socialLinks{
