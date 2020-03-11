@@ -84,7 +84,12 @@
 
 .ganeshaGitLink{
   color: black;
-  font-size: 5vh;
+  font-size: 3vh;
+}
+
+.ganeshaLiveLink{
+  font-size: 3vh;
+  color: black;
 }
 
 .github{
